@@ -4,7 +4,7 @@ Progression of the ant colony optimization simulation. The weight of the edges r
 ![](ant_colony_optimization.gif)
 
 ## Description
-the ant colony optimization algorithm (ACO) is a probabilistic technique for solving computational problems
+The ant colony optimization algorithm (ACO) is a probabilistic technique for solving computational problems
 which can be reduced to finding good paths through graphs. Artificial Ants stand for multi-agent methods 
 inspired by the behavior of real ants.The pheromone-based communication of biological ants is the predominant paradigm used.
 
