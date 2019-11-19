@@ -1,12 +1,13 @@
 # Ant-Colony-Optimization
 
-Progression of the ant colony optimization simulation. The weight of the edges represent the amount of pheromone deposited. Note that the path with higher pheromone convergest to the shortest path.
-![](ant_colony_optimization.gif)
-
 ## Description
 The ant colony optimization algorithm (ACO) is a probabilistic technique for solving computational problems
 which can be reduced to finding good paths through graphs. Artificial Ants stand for multi-agent methods 
 inspired by the behavior of real ants.The pheromone-based communication of biological ants is the predominant paradigm used.
+
+
+Progression of the ant colony optimization simulation. The weight of the edges represent the amount of pheromone deposited. Note that the path with higher pheromone convergest to the shortest path.
+![](ant_colony_optimization.gif)
 
 ## Algorithmic approach
 1. Create a graph of connected edges
